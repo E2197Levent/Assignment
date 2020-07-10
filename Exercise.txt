@@ -1,0 +1,9 @@
+Identification = input("Enter your first name: ")
+
+if Identification == "zafer":
+
+    print("Hello, Joseph! The password is: W@12")
+
+else:
+
+    print("Hello, Amina! See you later.")
